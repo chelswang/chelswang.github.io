@@ -3,7 +3,11 @@ header {
 	color:white;
 	text-align:center;
 	padding:5px;
-	font:helvetica;
+	font-family:helvetica;
+}
+img.center {
+	  display:block;
+	  margin: 0 auto;
 }
 nav {
      line-height:30px;
@@ -12,7 +16,22 @@ nav {
      width:100px;
      text-align:center;
      padding:5px;
-     font:helvetica;
+     font-family:helvetica;
+}
+a:link{
+	color:gray;
+	background-color:transparent;
+	text-decoration:none;
+}
+a:visited{
+	color:red;
+	background-color:transparent;
+	text-decoration:none;
+}
+a:hover{
+	color:white;
+	background-color:transparent;
+	text-decoration:none;
 }
 section {
       width:350px;
