@@ -1,10 +1,9 @@
-<style>
-
 header {
 	background-color:black;
 	color:white;
 	text-align:center;
 	padding:5px;
+	font:helvetica;
 }
 nav {
      line-height:30px;
@@ -13,11 +12,10 @@ nav {
      width:100px;
      float:left;
      padding:5px;
+     font:helvetica;
 }
 section {
       width:350px;
       float:left;
       padding:10px;
 }
-
-</style>
