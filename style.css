@@ -5,26 +5,14 @@ header {
 	padding:5px;
 	font-family:helvetica;
 }
-img.center {
-	  display:block;
-	  text-align:center;
-}
 nav {
      line-height:30px;
      background-color:#eeeeee;
-     height:300px;
-     width:100px;
      text-align:center;
-     padding:5px;
      font-family:helvetica;
 }
 a:link{
 	color:gray;
-	background-color:transparent;
-	text-decoration:none;
-}
-a:visited{
-	color:red;
 	background-color:transparent;
 	text-decoration:none;
 }
@@ -35,7 +23,4 @@ a:hover{
 }
 section {
       font-family:helvetica;
-}
-list {
-     list-style-type:circle;
 }
