@@ -10,12 +10,12 @@ nav {
      background-color:#eeeeee;
      height:300px;
      width:100px;
-     float:left;
+     text-align:center;
      padding:5px;
      font:helvetica;
 }
 section {
       width:350px;
-      float:left;
+      text-align:center;
       padding:10px;
 }
