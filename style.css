@@ -6,9 +6,9 @@ header {
 	font-family:helvetica;
 }
 nav {
-     line-height:30px;
      background-color:#eeeeee;
      text-align:center;
+     padding:5px;
      font-family:helvetica;
 }
 a:link{
