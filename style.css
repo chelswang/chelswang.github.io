@@ -1,23 +1,23 @@
 header {
-	background-color:#0039e6;
+	background-color:black;
 	color:white;
 	text-align:center;
 	padding:5px;
 	font-family:helvetica;
 }
 nav {
-     background-color:#3366ff;
+     background-color:lightgray;
      text-align:center;
      padding:5px;
      font-family:helvetica;
 }
 a:link{
-	color:gray;
+	color:white;
 	background-color:transparent;
 	text-decoration:none;
 }
 a:hover{
-	color:white;
+	color:blue;
 	background-color:transparent;
 	text-decoration:none;
 }
